@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.caja{
+width: 200px;
+height: 200px;
+
+}
+
+
+.red{
+background-color: #ee3e64;
+
+}
+
+.blue{
+background-color: #44accf;
+
+}
+
+.green{
+
+background-color: #b7d84b;
+}
